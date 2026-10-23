@@ -36,8 +36,8 @@ Enter an investor ID between 1 and 10 when prompted.
 ==========================================
  INVESTOR PORTFOLIO REPORT
 ==========================================
- Name    : Leanne Graham
- Email   : Sincere@april.biz
+ Name    : Glenna Reichert
+ Email   : Chaim_McDermott@dana.io
  Company : Romaguera-Crona
 ------------------------------------------
  HOLDINGS & ASSET VALUE:
