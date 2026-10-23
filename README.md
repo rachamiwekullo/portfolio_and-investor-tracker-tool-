@@ -48,7 +48,7 @@ Enter an investor ID between 1 and 10 when prompted.
  Total Net Worth  : $49,500.00
 ==========================================
 
-[Success] Portfolio report saved to 'leanne_portfolio.json'
+[Success] Portfolio report saved to 'Glenna_portfolio.json'
 ```
 ## stack
 
