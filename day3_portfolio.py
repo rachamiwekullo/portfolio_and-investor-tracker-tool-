@@ -1,3 +1,16 @@
+"""
+Crypto Portfolio & Investor Tracker Tool
+----------------------------------------
+This command-line tool takes an investor ID from user input, fetches their 
+profile from JSONPlaceholder, pulls live cryptocurrency prices from CoinGecko, 
+calculates their total portfolio valuation, displays a clean report, and saves 
+the results to a JSON file.
+
+How to run:
+    python crypto_investor_tool.py
+"""
+
+
 import json
 import requests
 
