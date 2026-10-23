@@ -1,0 +1,15 @@
+{
+  "investor_name": "Glenna Reichert",
+  "email": "Chaim_McDermott@dana.io",
+  "holdings": {
+    "BTC": 0.2,
+    "ETH": 3.0,
+    "SOL": 12.0
+  },
+  "current_prices_usd": {
+    "btc": 81196,
+    "eth": 2393.31,
+    "sol": 103.6
+  },
+  "total_portfolio_value_usd": 24662.33
+}
